@@ -1,11 +1,11 @@
 const CONFIG = new Config({
   crypto: {
-    coin: 'ETH',
-    currency: 'USD',
+    coin: 'BTC',
+    currency: 'EUR',
     refreshIn: 10
   },
   temperature: {
-    location: 'Matão, São Paulo',
+    location: 'Lisboa, Portugal',
     scale: 'C'
   },
   clock: 'h:i p',
